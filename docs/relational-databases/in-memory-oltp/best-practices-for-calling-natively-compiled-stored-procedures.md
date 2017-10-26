@@ -17,7 +17,10 @@ manager: "jhubbard"
 ms.workload: "Inactive"
 ---
 # Best Practices for Calling Natively Compiled Stored Procedures
-  Natively compiled stored procedures are:  
+[!INCLUDE[tsql-appliesto-ss2014-asdb-xxxx-xxx_md](../../includes/tsql-appliesto-ss2014-asdb-xxxx-xxx-md.md)]
+
+
+Natively compiled stored procedures are:  
   
 -   Used typically in performance-critical parts of an application.  
   
